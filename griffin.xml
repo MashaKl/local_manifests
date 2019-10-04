@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/motorola/griffin"
+ name="MashaKl/android_device_motorola_griffin"
+ revision="hybris-14.1" />
+<project path="kernel/motorola/msm8996"
+ name="MashaKl/android_kernel_motorola_msm8996"
+ revision="hybris-14.1" />
+<project path="vendor/motorola/griffin"
+ name="MashaKl/proprietary_vendor_motorola_griffin"
+ revision="hybris-14.1" />
+<project path="rpm/"
+ name="MashaKl/droid-hal-griffin" 
+ revision="master" />
+<project path="hybris/droid-configs"
+ name="MashaKl/droid-config-griffin" 
+ revision="master" />
+<project path="hybris/droid-hal-version-griffin"
+ name="MashaKl/droid-hal-version-griffin" 
+ revision="master" />
+</manifest>
